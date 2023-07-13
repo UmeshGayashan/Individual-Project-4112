@@ -1,0 +1,17 @@
+﻿<Application x:Class="Individual_Project_4112.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Individual_Project_4112"
+<<<<<<< HEAD
+             StartupUri="Views/StartupWindow.xaml">
+=======
+             StartupUri="StartupWindow.xaml">
+>>>>>>> 85a97f529e9b231ed8d95f581cdde1f679049760
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="ButtonStyle.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
